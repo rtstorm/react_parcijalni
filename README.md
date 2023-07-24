@@ -2,5 +2,5 @@
 
 ## Instalacija
 - `npm install` - instalacija potrebnih paketa
-- `npm start` - pokretanje aplikacije
+- `npm run dev` - pokretanje aplikacije
 
